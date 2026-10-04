@@ -77,6 +77,7 @@ Working as a Data Structures and Algorithms learning assistant taught me to expl
   <img src="https://img.shields.io/badge/LINGO-F783AC?style=for-the-badge" alt="LINGO" />
   <img src="https://img.shields.io/badge/AnyLogic-F783AC?style=for-the-badge" alt="AnyLogic" />
 </p>
+
 ### Version Control & DevOps
  
 <p>
