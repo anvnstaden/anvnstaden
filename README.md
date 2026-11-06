@@ -1,121 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2255c,100:f06595&height=200&section=header&text=Anja%20van%20Staden&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=UI%2FUX%20Design%20and%20Software%20Development&descAlignY=58&descSize=18" alt="Anja van Staden - UI/UX Design and Software Development" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a61e4d,50:d6336c,100:f783ac&height=220&section=header&text=Anja%20van%20Staden&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=UI%2FUX%20Design%20%C2%B7%20Software%20Development&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Anja van Staden · UI/UX Design · Software Development" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E64980&center=true&vCenter=true&width=620&lines=I+like+making+software+feel+easy+to+use.;Final-year+Computer+Science+student.;Based+in+Stellenbosch%2C+South+Africa." alt="I like making software feel easy to use." /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E64980&center=true&vCenter=true&width=640&lines=I+like+making+software+feel+easy+to+use.;Turning+complex+requirements+into+simple+UX.;Final-year+CS+%26+Operations+Research+student.;Based+in+Stellenbosch%2C+South+Africa." alt="I like making software feel easy to use." /></a>
+
+<br />
+
+<img src="https://img.shields.io/badge/Stellenbosch,_South_Africa-A61E4D?style=flat-square" alt="Based in Stellenbosch, South Africa" />
+<img src="https://img.shields.io/badge/Graduating-Nov_2026-C2255C?style=flat-square" alt="Graduating November 2026" />
+<img src="https://img.shields.io/badge/Open_to-UI%2FUX_%26_SWE_roles-E64980?style=flat-square" alt="Open to UI/UX and software engineering roles" />
 
 </div>
 
 <br />
 
-## ABOUT ME
+## About me
 
-I'm a final-year BSc Computer Science and Operations Research student at Stellenbosch University, graduating in November 2026.
+I'm a final-year **BSc Computer Science and Operations Research** student at **Stellenbosch University**, graduating in November 2026.
 
-What I enjoy most about building things isn't just making them work. It's thinking about how someone will actually use them. I like taking an idea or a requirement and turning it into something practical, intuitive and visually clear.
+What I enjoy most about building things isn't just making them work. It's thinking about how someone will actually *use* them. I like taking an idea or a requirement and turning it into something practical, intuitive and visually clear.
 
-Working as a Data Structures and Algorithms learning assistant taught me to explain difficult ideas simply and to be patient with them, and I try to bring that same clarity to the interfaces I design.
+Working as a **Data Structures and Algorithms learning assistant** taught me to explain difficult ideas simply, and to be patient while people work through them. I try to bring that same clarity to the interfaces I design.
 
-## WHAT I'M INTO
+```ts
+const anja = {
+  studying:   "BSc Computer Science + Operations Research @ Stellenbosch University",
+  graduating: "November 2026",
+  building:   "my portfolio site",
+  learning:   "German",
+  lookingFor: "my first role in UI/UX design or software engineering",
+  openTo:     ["South Africa", "Germany"],
+};
+```
 
-- UI/UX and product design
-- Frontend and web development
-- User-centred, responsive design
-- Turning complicated requirements into simple experiences
+## What I'm into
 
-## TOOLS I USE
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>UI/UX &amp; product design</h4>
+      Understanding the people behind a problem, then designing something that fits how they actually work.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend &amp; web development</h4>
+      Taking designs out of Figma and into real, working interfaces.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>User-centred, responsive design</h4>
+      Layouts that feel just as good on a phone as they do on a big screen.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Making complicated things simple</h4>
+      Turning messy requirements into experiences that feel obvious.
+    </td>
+  </tr>
+</table>
 
+## Tools I use
 
-### Design & Prototyping
- 
-<p>
-  <img src="https://img.shields.io/badge/Figma-A61E4D?style=for-the-badge" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-A61E4D?style=for-the-badge" alt="Canva" />
-</p>
+<table>
+  <tr>
+    <td><b>Design &amp; prototyping</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-8F1D45?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Canva-8F1D45?style=for-the-badge" alt="Canva" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend &amp; web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-A61E4D?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Express-A61E4D?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Vite-A61E4D?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/JavaScript-A61E4D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML-A61E4D?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-A61E4D?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-B3214F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaFX-B3214F?style=for-the-badge" alt="JavaFX" />
+      <img src="https://img.shields.io/badge/Python-B3214F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-B3214F?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/MATLAB-B3214F?style=for-the-badge" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/R-B3214F?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/x86_Assembly-B3214F?style=for-the-badge" alt="x86 Assembly" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Concurrent programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenMP-C2255C?style=for-the-badge" alt="OpenMP" />
+      <img src="https://img.shields.io/badge/MPI-C2255C?style=for-the-badge" alt="MPI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-CC2B63?style=for-the-badge" alt="SQL" />
+      <img src="https://img.shields.io/badge/SQLite-CC2B63?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MySQL-CC2B63?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Modelling &amp; optimisation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LINGO-D6336C?style=for-the-badge" alt="LINGO" />
+      <img src="https://img.shields.io/badge/AnyLogic-D6336C?style=for-the-badge" alt="AnyLogic" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Version control &amp; DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-DE3D76?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-DE3D76?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitLab-DE3D76?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+      <img src="https://img.shields.io/badge/Docker-DE3D76?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-DE3D76?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Pipelines" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Project &amp; collaboration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scrum-E64980?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+      <img src="https://img.shields.io/badge/Jira-E64980?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/Confluence-E64980?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+      <img src="https://img.shields.io/badge/Microsoft_Office-E64980?style=for-the-badge" alt="Microsoft Office" />
+    </td>
+  </tr>
+</table>
 
-### Frontend & Web Development
- 
-<p>
-    <img src="https://img.shields.io/badge/React-C2255C?style=for-the-badge" alt="ReactJS" />
-    <img src="https://img.shields.io/badge/ExpressJS-C2255C?style=for-the-badge" alt="ExpressJS" />
-    <img src="https://img.shields.io/badge/Vite-C2255C?style=for-the-badge" alt="Vite" />
-    <img src="https://img.shields.io/badge/JavaScript-C2255C?style=for-the-badge" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML-C2255C?style=for-the-badge" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-C2255C?style=for-the-badge" alt="CSS" />
-</p>
+## My portfolio
 
-### Programming Languages
- 
-<p>
-  <img src="https://img.shields.io/badge/Java-D6336C?style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaFX-D6336C?style=for-the-badge" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Python-D6336C?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/C-D6336C?style=for-the-badge" alt="C" />
-  <img src="https://img.shields.io/badge/MATLAB-D6336C?style=for-the-badge" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/R-D6336C?style=for-the-badge" alt="R" />
-  <img src="https://img.shields.io/badge/x86 Assembly-D6336C?style=for-the-badge" alt="Assembly" />
-</p>
+<div align="center">
 
-### Concurrent Programming
+My design work and case studies live on my portfolio site, where I walk through<br />
+the problem, my process and the decisions behind each design.
 
-<p>
-  <img src="https://img.shields.io/badge/OpenMP-E64980?style=for-the-badge" alt="OpenMP" />
-  <img src="https://img.shields.io/badge/MPI-E64980?style=for-the-badge" alt="MPI" />
-</p>
+<br />
 
-### Database Management
- 
-<p>
-  <img src="https://img.shields.io/badge/SQL-F06595?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQLite-F06595?style=for-the-badge" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-F06595?style=for-the-badge" alt="MySQL" />
-</p>
+<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/View_my_portfolio_%E2%86%92-C2255C?style=for-the-badge" alt="View my portfolio" height="40" /></a>
 
-### Modelling & Optimisation
- 
-<p>
-  <img src="https://img.shields.io/badge/LINGO-F783AC?style=for-the-badge" alt="LINGO" />
-  <img src="https://img.shields.io/badge/AnyLogic-F783AC?style=for-the-badge" alt="AnyLogic" />
-</p>
+</div>
 
-### Version Control & DevOps
- 
-<p>
-  <img src="https://img.shields.io/badge/Git-FAA2C1?style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-FAA2C1?style=for-the-badge" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FAA2C1?style=for-the-badge" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Docker-FAA2C1?style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD Pipelines-FAA2C1?style=for-the-badge" alt="CI/CD Pipelines" />
-</p>
+## Get in touch
 
-### Project & Collaboration
- 
-<p>
-  <img src="https://img.shields.io/badge/Scrum-FCC2D7?style=for-the-badge" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Jira-FCC2D7?style=for-the-badge" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-FCC2D7?style=for-the-badge" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Microsoft Office-FCC2D7?style=for-the-badge" alt="Microsoft Office" />
-</p>
+<div align="center">
 
-## MY PORTFOLIO
+I'd love to hear about UI/UX or software roles, interesting projects, or just to chat about design.
 
-My design work and case studies live on my portfolio site, where I walk through the problem, my process and the decisions behind each design.
+<br />
 
-**[View my portfolio](YOUR-PORTFOLIO-URL)**
+<a href="https://www.linkedin.com/in/anja-van-staden"><img src="https://img.shields.io/badge/LinkedIn-A61E4D?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:anvnstaden@gmail.com"><img src="https://img.shields.io/badge/Email-C2255C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-E64980?style=for-the-badge" alt="Portfolio" /></a>
 
-## WHAT I'M DOING RIGHT NOW
+</div>
 
-- Finishing my degree
-- Building my portfolio site
-- Learning German
-- Looking for my first role in UI/UX design or software engineering, in South Africa or Germany
-
-## GET IN TOUCH WITH ME
-
-<p>
-  <a href="https://www.linkedin.com/in/anja-van-staden"><img src="https://img.shields.io/badge/LinkedIn-f06595?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:anvnstaden@gmail.com"><img src="https://img.shields.io/badge/Email-f06595?style=for-the-badge" alt="Email" /></a>
-  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-f06595?style=for-the-badge" alt="Portfolio" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2255c,100:f06595&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a61e4d,50:d6336c,100:f783ac&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
