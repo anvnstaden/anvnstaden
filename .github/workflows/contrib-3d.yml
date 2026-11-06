@@ -1,0 +1,40 @@
+# Redraws the 3D contribution city (assets/contrib-3d-*.svg) every night, and whenever its script changes.
+name: Contribution city
+
+on:
+  schedule:
+    - cron: '30 22 * * *' # 00:30 in South Africa
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contrib-3d
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Draw the city
+        run: node scripts/contrib-3d.mjs ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit it if it changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contrib-3d-*.svg
+          git diff --cached --quiet || git commit -m 'Redraw contribution city'
+          git push
